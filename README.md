@@ -7,9 +7,9 @@ Then directly operate demo_step1.py and demo_step2.py, mainly divided into two s
 ```
 python demo_step1.py
 ```
- the file appears: then get the pre-input token successfully, 
+the file appears: then get the pre-input token successfully, 
 
 ```
 python demo_step2.py
 ```
-calculate the gradient. c) demo_step2: get the gradient, get the saliency: d) get the significance map and the attention weight.
+calculate the gradient, get the significance map and the attention weight.
