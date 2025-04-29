@@ -13,3 +13,15 @@ the file appears: then get the pre-input token successfully,
 python demo_step2.py
 ```
 calculate the gradient, get the significance map and the attention weight.
+
+
+# For Qwen2-VL
+```
+python Qwen_step1.py
+```
+the file appears: then get the pre-input token successfully, 
+
+```
+python Qwen_step2.py
+```
+calculate the gradient, get the significance map and the attention weight.
