@@ -31,7 +31,7 @@ you can see that these methods are unable to distinguish the patterns of halluci
 **Attention*Grad**:
 ![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-attention*grad.jpg)
 
-**Attention+rad**:
+**Attention+Gad**:
 ![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-Attention%20%2B%20Gradient.jpg)
 
 **Attention-substracted**:
