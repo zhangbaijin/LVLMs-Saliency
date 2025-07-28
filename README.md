@@ -27,11 +27,20 @@ python Qwen_step2.py
 calculate the gradient, get the significance map and the attention weight.
 
 # Different fusion strage for saliency-map
-you can see 
-(!image)[https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-Attention%20%2B%20Gradient.jpg]
-```Nips-Attention+Gradient.jpg```,
-```Nips-attention-substracted.jpg```,
-```Nips-attention*grad.jpg```,
-```Nips-concat+mlp.jpg```,
-```Nips-max-value.jpg```.
-These methods are unable to distinguish the patterns of hallucinations and correct tokens. In contrast, attention*grad fusion is clearer in distinguishing important and unimportant tokens.
+you can see that these methods are unable to distinguish the patterns of hallucinations and correct tokens. In contrast, attention*grad fusion is clearer in distinguishing important and unimportant tokens.
+**Attention*Grad**:
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-attention*grad.jpg)
+
+**Attention+rad**:
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-Attention%20%2B%20Gradient.jpg)
+
+**Attention-substracted**:
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-attention-subtracted.jpg)
+
+**Concat-mlp**:
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-concat%2BMLP.jpg)
+
+**max-value**:
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-max-value.jpg)
+
+
