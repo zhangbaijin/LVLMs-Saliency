@@ -28,6 +28,7 @@ calculate the gradient, get the significance map and the attention weight.
 
 # Different fusion strage for saliency-map
 you can see 
+(!image)[https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-Attention%20%2B%20Gradient.jpg]
 ```Nips-Attention+Gradient.jpg```,
 ```Nips-attention-substracted.jpg```,
 ```Nips-attention*grad.jpg```,
