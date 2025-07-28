@@ -25,3 +25,7 @@ the file appears: then get the pre-input token successfully,
 python Qwen_step2.py
 ```
 calculate the gradient, get the significance map and the attention weight.
+
+# Different fusion strage for saliency-map
+you can see ```Nips-Attention+Gradient.jpg```,```Nips-attention-substracted.jpg```,```Nips-attention*grad.jpg```,```Nips-concat+mlp.jpg```,```Nips-max-value.jpg```.
+These methods are unable to distinguish the patterns of hallucinations and correct tokens. In contrast, multiplicative fusion is clearer in distinguishing important and unimportant tokens.
