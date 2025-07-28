@@ -32,13 +32,13 @@ you can see that these methods are unable to distinguish the patterns of halluci
 ![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-attention*grad.jpg)
 
 **Attention+Gad**:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-Attention%20%2B%20Gradient.jpg)
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-Attention-add-Gradient.jpg)
 
 **Attention-substracted**:
 ![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-attention-subtracted.jpg)
 
 **Concat-mlp**:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-concat%2BMLP.jpg)
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-concat-MLP.jpg)
 
 **max-value**:
 ![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-max-value.jpg)
