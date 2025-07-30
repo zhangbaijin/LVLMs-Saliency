@@ -20,18 +20,18 @@ python Qwen_step2.py
 # Different fusion strage for saliency-map
 you can see that these methods are unable to distinguish the patterns of hallucinations and correct tokens. In contrast, attention*grad fusion is clearer in distinguishing important and unimportant tokens.
 **Attention*Grad**:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-attention*grad.jpg)
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-rebutal/nips-attention-grad.png)
 
 **Attention+Gad**:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-Attention-add-Gradient.jpg)
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-rebutal/nips-attention-add-grad.png)
 
 **Attention-substracted**:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-attention-subtracted.jpg)
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-rebutal/nips-attention-substracted-grad.png)
 
 **Concat-mlp**:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-concat-MLP.jpg)
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-rebutal/nips-concat-mlp.png)
 
 **max-value**:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-max-value.jpg)
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-rebutal/nips-max-value.png)
 
 
