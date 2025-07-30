@@ -1,7 +1,5 @@
 ## Saliency of LLaVA and Qwen-VL for exploring hallunction 
 
-Then directly operate demo_step1.py and demo_step2.py, mainly divided into two steps: 
-
 # For LLaVA1.5 
 ```
 python demo_step1.py,python demo_step2.py
