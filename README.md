@@ -18,16 +18,4 @@ you can see that these methods are unable to distinguish the patterns of halluci
 **Attention*Grad**:
 ![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-rebutal/nips-attention-grad.png)
 
-**Attention+Gad**:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-rebutal/nips-attention-add-grad.png)
-
-**Attention-substracted**:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-rebutal/nips-attention-substracted-grad.png)
-
-**Concat-mlp**:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-rebutal/nips-concat-mlp.png)
-
-**max-value**:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-rebutal/nips-max-value.png)
-
 
