@@ -11,9 +11,6 @@
 ![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/paper/pattern.png)
 
 ### After intervention, incorrect tokens became correct tokens, and the saliency score increased significantly.
-
-
-### The patterns of incorrect and correct tokens are as follows:
 ![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/paper/difference.png)
 
 
