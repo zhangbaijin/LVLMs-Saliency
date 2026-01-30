@@ -1,16 +1,16 @@
 # [ICLR 2026] Hallucination Begins Where Saliency Drops
 ## Saliency of LLaVA and Qwen-VL for exploring hallunction 
 ### The motivation of this paper is
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/paper/motivation.png)
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/paper/motivation.png)
 
 ### The patterns of incorrect and correct tokens are as follows:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/paper/pattern.png)
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/paper/pattern.png)
 
 ### After intervention, incorrect tokens became correct tokens, and the saliency score increased significantly.
 
 
 ### The patterns of incorrect and correct tokens are as follows:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/paper/difference.png)
+![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/paper/difference.png)
 
 
 # For LLaVA1.5 
