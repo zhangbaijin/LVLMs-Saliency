@@ -32,7 +32,7 @@ python Qwen_step1.py,python Qwen_step2.py
 ## Citation
 ```bibtex
 @inproceedings{
-anonymous2026hallucination,
+zhang-saliency,
 title={Hallucination Begins Where Saliency Drops},
 author={Xiaofeng Zhang, Yuanchao Zhu, Chaochen Gu, Xiaosong Yuan, Qiyan Zhao, Jiawei Cao, Feilong Tang, Sinan Fan, Yaomin Shen, Chen Shen, Hao Tang },
 booktitle={The Fourteenth International Conference on Learning Representations},
