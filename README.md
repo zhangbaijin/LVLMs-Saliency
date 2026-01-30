@@ -28,11 +28,6 @@ python demo_step1.py,python demo_step2.py
 python Qwen_step1.py,python Qwen_step2.py
 ```
 
-# Different fusion strage for saliency-map
-you can see that these methods are unable to distinguish the patterns of hallucinations and correct tokens. In contrast, attention*grad fusion is clearer in distinguishing important and unimportant tokens.
-
-**Attention*Grad**:
-![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-rebutal/nips-attention-grad.png)
 
 ## Citation
 ```bibtex
