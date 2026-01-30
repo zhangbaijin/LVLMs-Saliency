@@ -1,5 +1,9 @@
 # [ICLR 2026] Hallucination Begins Where Saliency Drops
-## Saliency of LLaVA and Qwen-VL for exploring hallunction 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-g.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Stars](https://img.shields.io/github/stars/zhangbaijin/LVLMs-Saliency?style=social)](zhangbaijin/LVLMs-Saliency)
+
+
 ### The motivation of this paper is
 ![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/paper/motivation.png)
 
@@ -30,7 +34,8 @@ you can see that these methods are unable to distinguish the patterns of halluci
 **Attention*Grad**:
 ![image](https://github.com/zhangbaijin/LVLMs-Saliency/blob/master/Nips-rebutal/nips-attention-grad.png)
 
-'''
+## Citation
+```bibtex
 @inproceedings{
 anonymous2026hallucination,
 title={Hallucination Begins Where Saliency Drops},
@@ -40,3 +45,9 @@ year={2026},
 url={https://openreview.net/forum?id=sjnErRHXf3}
 }
 '''
+
+## Acknowledgement
+
+This repo is built on [LLaVA](https://github.com/haotian-liu/LLaVA) (models), [OPERA](https://github.com/shikiw/OPERA) (CHAIR evaluation) and [FastV](https://github.com/pkunlp-icler/FastV) (Image Token Truncation). Many thanks for their efforts. The use of our code should also follow the original licenses.
+
+
