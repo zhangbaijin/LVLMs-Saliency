@@ -1,4 +1,4 @@
-# 🔥🔥🔥[ICLR 2026] Hallucination Begins Where Saliency Drops
+# 🔥🔥🔥[ICLR 2026 Oral] Hallucination Begins Where Saliency Drops
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-g.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/zhangbaijin/LVLMs-Saliency?style=social)](zhangbaijin/LVLMs-Saliency)
